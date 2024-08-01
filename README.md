@@ -22,7 +22,8 @@ The analysis aims to provide actionable insights to optimize sales strategies an
  - Add tables to Dashboard.
  - Calculate additional "vs PY" column. Use conditional cells formatting, insert symbols.
    
-   ![formatting](https://github.com/user-attachments/assets/5ee9ce3a-0ce4-44cd-ac4c-7a816d4930da)
+   
+![formatting](https://github.com/user-attachments/assets/ec34ed8e-1581-44f9-83f7-237a8b8025be)
    
  - Use IF() formula to handle errors and blank cells.
  - Create Pivot Table: add Years, Quarters (Order Date) to Rows and Sales, Quantity as values.
@@ -59,7 +60,7 @@ Dashboard : contains key metrics, tables, charts, slicers.
 
 # Report Snapshot
 
-![Dashboard](https://github.com/user-attachments/assets/69e9dacb-6395-490f-a5bd-8a0376f2d32c)
+![Dashboard](https://github.com/user-attachments/assets/4e70e179-3251-4557-b81a-4abf40bb4a4f)
 
 # Insights
 
